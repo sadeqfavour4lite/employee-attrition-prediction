@@ -103,5 +103,8 @@ This project uses machine learning techniques to predict employee attrition base
 ### Decision Tree Confusion Matrix
 ![Decision Tree](images/Decision_Tree_confusion_matrix.png)
 
+## Results
+The tuned Random Forest and XGBoost models achieved strong predictive performance in identifying employee attrition patterns.
+
 ## Author
 Sadiq Favour Momodu
